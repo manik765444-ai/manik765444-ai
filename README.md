@@ -8,9 +8,9 @@
 
 <div align="center">
   
-[![AI](https://img.shields.io/badge/AI-Expert-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/manik765444-ai)
-[![ML](https://img.shields.io/badge/ML-Practitioner-4ECDC4?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://github.com/manik765444-ai)
-[![Deep Learning](https://img.shields.io/badge/Deep_Learning-Enthusiast-95E1D3?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/manik765444-ai)
+[![Student](https://img.shields.io/badge/MCA_Student-CCS_University-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://github.com/manik765444-ai)
+[![AI](https://img.shields.io/badge/AI-Enthusiast-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white)](https://github.com/manik765444-ai)
+[![Learning](https://img.shields.io/badge/Always-Learning-95E1D3?style=for-the-badge&logo=bookstack&logoColor=white)](https://github.com/manik765444-ai)
 
 </div>
 
@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <b><i>💭 "The question of whether a computer can think is no more interesting than the question of whether a submarine can swim." - Edsger Dijkstra</i></b>
+  <b><i>💭 "The beautiful thing about learning is that no one can take it away from you." - B.B. King</i></b>
 </div>
 
 <p align="center">
@@ -34,7 +34,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%" />
 </p>
 
-## � About Me
+## 🚀 About Me
 
 <div align="center">
   
@@ -42,11 +42,13 @@
 
 ### Hi there! 👋 I'm **Manik**
   
-🤖 **AI/ML Engineer** passionate about building intelligent systems<br/>
-🎓 Constantly learning and exploring cutting-edge technologies<br/>
-🔬 Research interests: Deep Learning, NLP, Computer Vision, MLOps<br/>
-🌟 Open source contributor and tech enthusiast<br/>
-💡 Turning data into actionable insights<br/>
+🎓 **MCA Student** at CCS University<br/>
+🤖 Aspiring **AI/ML Engineer** passionate about intelligent systems<br/>
+📚 Learning and exploring Deep Learning, NLP, Computer Vision & MLOps<br/>
+💻 Building projects to solve real-world problems<br/>
+🌟 Open source enthusiast and tech explorer<br/>
+💡 Turning classroom knowledge into practical applications<br/>
+🚀 On a journey to master AI and make an impact<br/>
 
 </div>
 
@@ -66,28 +68,33 @@
 ## 🔥 Current Focus
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧠_Deep_Learning-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/💬_NLP-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/👁️_Computer_Vision-95E1D3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🚀_MLOps-F38181?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚_MCA_Studies-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/�_NLP_Projects-95E1D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/�️_Computer_Vision-F38181?style=for-the-badge" />
 </p>
 
 <div align="center">
   
 ```python
-class AIEngineer:
+class StudentAIEngineer:
     def __init__(self):
         self.name = "Manik"
-        self.role = "AI/ML Engineer"
+        self.education = "MCA Student @ CCS University"
+        self.role = "Aspiring AI/ML Engineer"
+        self.current_focus = ["Deep Learning", "NLP", "Computer Vision"]
         self.languages = ["Python", "R", "SQL", "JavaScript"]
         self.frameworks = ["TensorFlow", "PyTorch", "Scikit-learn", "Keras"]
-        self.tools = ["Docker", "Kubernetes", "MLflow", "Weights & Biases"]
-        self.cloud = ["AWS", "Azure", "GCP"]
+        self.learning = ["MLOps", "Cloud Computing", "Advanced AI"]
+        self.passion = "Building AI solutions that make a difference"
+    
+    def daily_routine(self):
+        return ["Learn 📚", "Code 💻", "Build 🔨", "Share 🌟"]
     
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        print("Hey! I'm on a journey to master AI/ML. Let's learn together! 🚀")
 
-me = AIEngineer()
+me = StudentAIEngineer()
 me.say_hi()
 ```
 
@@ -99,6 +106,38 @@ me.say_hi()
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%" />
+</p>
+
+## 🎓 Academic Journey
+
+<div align="center">
+
+### 🏛️ Master of Computer Applications (MCA)
+**CCS University** | 2024 - 2026 (Expected)
+
+<br/>
+
+| 📖 **Coursework** | 🎯 **Skills Developed** |
+|-------------------|-------------------------|
+| Advanced Data Structures | Problem Solving & Algorithms |
+| Machine Learning | ML Model Development |
+| Database Management | SQL & Data Management |
+| Software Engineering | Project Development |
+| Cloud Computing | AWS, Azure, GCP |
+| Artificial Intelligence | Deep Learning & NLP |
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Academic_Excellence-Committed-FF6B6B?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lifelong_Learner-Always-00D9FF?style=for-the-badge&logo=udemy&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%" />
+</p>
 
 ---
 
@@ -106,7 +145,7 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%" />
 </p>
 
-## �️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages
 <p align="center">
@@ -192,24 +231,6 @@ me.say_hi()
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:2196F3,75:E91E63,100:673AB7&height=80&section=header" width="100%" />
-</p>
-
-## 🏆 My GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=imediatoconstrucao&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false"/>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC107,25:8BC34A,50:2196F3,75:E91E63,100:673AB7&height=80&section=footer" width="100%" />
-</p>
-
----
-
----
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20&height=3" width="100%" />
 </p>
 
@@ -267,8 +288,9 @@ me.say_hi()
 
 <div align="center">
   <blockquote>
-    <p><strong>💡 "In the world of AI, we don't just code - we teach machines to think!"</strong></p>
+    <p><strong>💡 "Learning AI isn't just about understanding algorithms - it's about shaping the future!"</strong></p>
   </blockquote>
-  <p>⭐ If you find my work interesting, feel free to star my repositories!</p>
+  <p>⭐ Fellow student or developer? Let's connect and learn together!</p>
+  <p>🚀 If you find my projects helpful, feel free to star them!</p>
 </div>
 
