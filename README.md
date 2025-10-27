@@ -115,7 +115,7 @@ me.say_hi()
 <div align="center">
 
 ### 🏛️ Master of Computer Applications (MCA)
-**CCS University** | 2024 - 2026 (Expected)
+**CCS University** | 2025 - 2027 (Expected)
 
 <br/>
 
