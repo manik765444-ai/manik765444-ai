@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Manik's%20AI%20Universe%20🤖&fontSize=50&fontAlignY=35&fontColor=fff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Kritiman's%20AI%20Universe%20🤖&fontSize=50&fontAlignY=35&fontColor=fff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@
   
 <img align="right" alt="AI GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx0aWFiZDY2cHBqN2w3aWVqZXVtMjJhZzN5ZjBqbW5qeGt2Yjd2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-### Hi there! 👋 I'm **Manik**
+### Hi there! 👋 I'm **Kritiman**
   
 🎓 **MCA Student** at CCS University<br/>
 🤖 Aspiring **AI/ML Engineer** passionate about intelligent systems<br/>
