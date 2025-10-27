@@ -79,7 +79,7 @@
 ```python
 class StudentAIEngineer:
     def __init__(self):
-        self.name = "Manik"
+        self.name = "Kritiman"
         self.education = "MCA Student @ CCS University"
         self.role = "Aspiring AI/ML Engineer"
         self.current_focus = ["Deep Learning", "NLP", "Computer Vision"]
